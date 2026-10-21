@@ -1,0 +1,86 @@
+{
+  "2844588144": {
+    "pnr": "2844588144",
+    "train_no": "12560",
+    "train_name": "SHIV GANGA EXP",
+    "doj": "24-10-2026",
+    "source": "New Delhi",
+    "destination": null,
+    "from_code": "NDLS",
+    "to_code": "BNRS",
+    "class": "SL",
+    "chart_prepared": false,
+    "passengers": [
+      {
+        "number": 1,
+        "booking_status": "GNWL  39",
+        "current_status": "GNWL  11",
+        "coach": "L SLR UR UR UR S5 S4 S3 S2 S1 B9 B8 B7 B6 B5 B4 B3 B2 B1 H1 A2 A1 SLR",
+        "berth": "11",
+        "berth_code": "",
+        "prediction": "94% Chance"
+      },
+      {
+        "number": 2,
+        "booking_status": "GNWL  40",
+        "current_status": "GNWL  12",
+        "coach": "L SLR UR UR UR S5 S4 S3 S2 S1 B9 B8 B7 B6 B5 B4 B3 B2 B1 H1 A2 A1 SLR",
+        "berth": "12",
+        "berth_code": "",
+        "prediction": "93% Chance"
+      },
+      {
+        "number": 3,
+        "booking_status": "GNWL  41",
+        "current_status": "GNWL  13",
+        "coach": "L SLR UR UR UR S5 S4 S3 S2 S1 B9 B8 B7 B6 B5 B4 B3 B2 B1 H1 A2 A1 SLR",
+        "berth": "13",
+        "berth_code": "",
+        "prediction": "92% Chance"
+      }
+    ],
+    "last_checked": "2026-10-21 20:58:34"
+  },
+  "2525809503": {
+    "pnr": "2525809503",
+    "train_no": "12559",
+    "train_name": "SHIV GANGA EXP",
+    "doj": "28-10-2026",
+    "source": null,
+    "destination": null,
+    "from_code": "BNRS",
+    "to_code": "NDLS",
+    "class": "SL",
+    "chart_prepared": false,
+    "passengers": [
+      {
+        "number": 1,
+        "booking_status": "RAC  30",
+        "current_status": "RAC  16",
+        "coach": "L SLR A1 A2 H1 B1 B2 B3 B4 B5 B6 B7 B8 B9 S1 S2 S3 S4 S5 UR UR UR SLR",
+        "berth": "16",
+        "berth_code": "",
+        "prediction": "Available"
+      },
+      {
+        "number": 2,
+        "booking_status": "RAC  31",
+        "current_status": "RAC  17",
+        "coach": "L SLR A1 A2 H1 B1 B2 B3 B4 B5 B6 B7 B8 B9 S1 S2 S3 S4 S5 UR UR UR SLR",
+        "berth": "17",
+        "berth_code": "",
+        "prediction": "Available"
+      },
+      {
+        "number": 3,
+        "booking_status": "RAC  32",
+        "current_status": "RAC  18",
+        "coach": "L SLR A1 A2 H1 B1 B2 B3 B4 B5 B6 B7 B8 B9 S1 S2 S3 S4 S5 UR UR UR SLR",
+        "berth": "18",
+        "berth_code": "",
+        "prediction": "Available"
+      }
+    ],
+    "last_checked": "2026-10-21 20:58:35"
+  }
+}
