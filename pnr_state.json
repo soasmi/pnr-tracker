@@ -14,32 +14,32 @@
       {
         "number": 1,
         "booking_status": "GNWL  39",
-        "current_status": "GNWL  11",
-        "coach": "L SLR UR UR UR S5 S4 S3 S2 S1 B9 B8 B7 B6 B5 B4 B3 B2 B1 H1 A2 A1 SLR",
-        "berth": "11",
+        "current_status": "GNWL  10",
+        "coach": "",
+        "berth": "",
         "berth_code": "",
         "prediction": "94% Chance"
       },
       {
         "number": 2,
         "booking_status": "GNWL  40",
-        "current_status": "GNWL  12",
-        "coach": "L SLR UR UR UR S5 S4 S3 S2 S1 B9 B8 B7 B6 B5 B4 B3 B2 B1 H1 A2 A1 SLR",
-        "berth": "12",
+        "current_status": "GNWL  11",
+        "coach": "",
+        "berth": "",
         "berth_code": "",
         "prediction": "93% Chance"
       },
       {
         "number": 3,
         "booking_status": "GNWL  41",
-        "current_status": "GNWL  13",
-        "coach": "L SLR UR UR UR S5 S4 S3 S2 S1 B9 B8 B7 B6 B5 B4 B3 B2 B1 H1 A2 A1 SLR",
-        "berth": "13",
+        "current_status": "GNWL  12",
+        "coach": "",
+        "berth": "",
         "berth_code": "",
         "prediction": "92% Chance"
       }
     ],
-    "last_checked": "2026-10-21 20:58:34"
+    "last_checked": "2026-10-22 09:34:15"
   },
   "2525809503": {
     "pnr": "2525809503",
@@ -56,7 +56,7 @@
       {
         "number": 1,
         "booking_status": "RAC  30",
-        "current_status": "RAC  14",
+        "current_status": "RAC  13",
         "coach": "",
         "berth": "",
         "berth_code": "",
@@ -65,7 +65,7 @@
       {
         "number": 2,
         "booking_status": "RAC  31",
-        "current_status": "RAC  15",
+        "current_status": "RAC  14",
         "coach": "",
         "berth": "",
         "berth_code": "",
@@ -74,13 +74,13 @@
       {
         "number": 3,
         "booking_status": "RAC  32",
-        "current_status": "RAC  16",
+        "current_status": "RAC  15",
         "coach": "",
         "berth": "",
         "berth_code": "",
         "prediction": "Available"
       }
     ],
-    "last_checked": "2026-10-22 04:09:20"
+    "last_checked": "2026-10-22 09:34:16"
   }
 }
