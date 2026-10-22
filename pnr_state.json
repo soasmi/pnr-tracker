@@ -14,6 +14,7 @@
       {
         "number": 1,
         "booking_status": "GNWL  39",
+<<<<<<< Updated upstream
         "current_status": "GNWL  10",
         "coach": "",
         "berth": "",
@@ -24,22 +25,44 @@
         "number": 2,
         "booking_status": "GNWL  40",
         "current_status": "GNWL  11",
+=======
+        "current_status": "GNWL  9",
+>>>>>>> Stashed changes
         "coach": "",
         "berth": "",
         "berth_code": "",
         "prediction": "93% Chance"
       },
       {
+<<<<<<< Updated upstream
         "number": 3,
         "booking_status": "GNWL  41",
         "current_status": "GNWL  12",
+=======
+        "number": 2,
+        "booking_status": "GNWL  40",
+        "current_status": "GNWL  10",
+>>>>>>> Stashed changes
         "coach": "",
         "berth": "",
         "berth_code": "",
         "prediction": "92% Chance"
+      },
+      {
+        "number": 3,
+        "booking_status": "GNWL  41",
+        "current_status": "GNWL  11",
+        "coach": "",
+        "berth": "",
+        "berth_code": "",
+        "prediction": "91% Chance"
       }
     ],
+<<<<<<< Updated upstream
     "last_checked": "2026-10-22 09:34:15"
+=======
+    "last_checked": "2026-10-22 18:40:26"
+>>>>>>> Stashed changes
   },
   "2525809503": {
     "pnr": "2525809503",
@@ -81,6 +104,10 @@
         "prediction": "Available"
       }
     ],
+<<<<<<< Updated upstream
     "last_checked": "2026-10-22 09:34:16"
+=======
+    "last_checked": "2026-10-22 18:40:28"
+>>>>>>> Stashed changes
   }
 }
