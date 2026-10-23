@@ -14,7 +14,7 @@
       {
         "number": 1,
         "booking_status": "GNWL  39",
-        "current_status": "GNWL  6",
+        "current_status": "GNWL  5",
         "coach": "",
         "berth": "",
         "berth_code": "",
@@ -23,23 +23,23 @@
       {
         "number": 2,
         "booking_status": "GNWL  40",
-        "current_status": "GNWL  7",
-        "coach": "",
-        "berth": "",
-        "berth_code": "",
-        "prediction": "93% Chance"
-      },
-      {
-        "number": 3,
-        "booking_status": "GNWL  41",
-        "current_status": "GNWL  8",
+        "current_status": "GNWL  6",
         "coach": "",
         "berth": "",
         "berth_code": "",
         "prediction": "92% Chance"
+      },
+      {
+        "number": 3,
+        "booking_status": "GNWL  41",
+        "current_status": "GNWL  7",
+        "coach": "",
+        "berth": "",
+        "berth_code": "",
+        "prediction": "91% Chance"
       }
     ],
-    "last_checked": "2026-10-23 06:24:09"
+    "last_checked": "2026-10-23 11:58:02"
   },
   "2525809503": {
     "pnr": "2525809503",
