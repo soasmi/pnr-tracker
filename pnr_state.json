@@ -9,37 +9,37 @@
     "from_code": "NDLS",
     "to_code": "BNRS",
     "class": "SL",
-    "chart_prepared": false,
+    "chart_prepared": true,
     "passengers": [
       {
         "number": 1,
         "booking_status": "GNWL  39",
-        "current_status": "RAC  70",
-        "coach": "",
-        "berth": "",
+        "current_status": "RAC S3 31",
+        "coach": "S3",
+        "berth": "31",
         "berth_code": "",
-        "prediction": "Available"
+        "prediction": ""
       },
       {
         "number": 2,
         "booking_status": "GNWL  40",
-        "current_status": "GNWL  1",
-        "coach": "",
-        "berth": "",
+        "current_status": "RAC S3 31",
+        "coach": "S3",
+        "berth": "31",
         "berth_code": "",
-        "prediction": "95% Chance"
+        "prediction": ""
       },
       {
         "number": 3,
         "booking_status": "GNWL  41",
-        "current_status": "GNWL  2",
-        "coach": "",
-        "berth": "",
+        "current_status": "RAC S3 39",
+        "coach": "S3",
+        "berth": "39",
         "berth_code": "",
-        "prediction": "94% Chance"
+        "prediction": ""
       }
     ],
-    "last_checked": "2026-10-24 01:52:52"
+    "last_checked": "2026-10-24 16:10:44"
   },
   "2525809503": {
     "pnr": "2525809503",
