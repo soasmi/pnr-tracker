@@ -56,7 +56,7 @@
       {
         "number": 1,
         "booking_status": "RAC  30",
-        "current_status": "RAC  12",
+        "current_status": "RAC  11",
         "coach": "",
         "berth": "",
         "berth_code": "",
@@ -65,7 +65,7 @@
       {
         "number": 2,
         "booking_status": "RAC  31",
-        "current_status": "RAC  13",
+        "current_status": "RAC  12",
         "coach": "",
         "berth": "",
         "berth_code": "",
@@ -74,13 +74,13 @@
       {
         "number": 3,
         "booking_status": "RAC  32",
-        "current_status": "RAC  14",
+        "current_status": "RAC  13",
         "coach": "",
         "berth": "",
         "berth_code": "",
         "prediction": "Available"
       }
     ],
-    "last_checked": "2026-10-26 15:01:53"
+    "last_checked": "2026-10-26 20:41:11"
   }
 }
